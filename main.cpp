@@ -3,7 +3,7 @@
 #include <vector>
 
 using namespace std;
-#define M 500 // max number of vertices
+#define M 100 // max number of vertices
 struct StructEdge
 {
     int v;
