@@ -1,0 +1,3 @@
+D:/tanki/University/A&DStr/CourseProject/cmake-build-debug/CMakeFiles/CourseProject.dir
+D:/tanki/University/A&DStr/CourseProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/tanki/University/A&DStr/CourseProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
